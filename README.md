@@ -1,5 +1,110 @@
+
 <h1 align="center">Hi there 👋, I'm Arun Narayanan </h1>
-<h3 align="center">A passionate Data Scientist | Tech Enthusiast | Lifelong Learner</h3>
+<h2 align="center"> 🧠 AI ML Engineer | ✍️ Tech Storyteller | 🚀 Technocrat in the Making </h2>
+
+An **AI/ML Engineer** and **passionate technologist** with **12+ years of experience** in building innovative AI solutions. This repository showcases some of my best work, ranging from **NLP**, **Generative AI**, to cutting-edge **machine learning models**, and is my way of **giving back to the community**.
+
+- 🔭 I’m currently working on: **Agentic AI Architecture Benchmarking** 
+- 🌱 I’m learning: **Agentic AI**   
+- 💬 Ask me about: **NLP GenAI Python Data Engineering** 
+- ⚡ Fun fact: **Engaged when active, relaxed when at rest**
+
+## 📬 Connect with Me
+
+<p>
+  <a href="[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/arunnaray/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://twitter.com/arunnaray" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" /></a>
+  <a href="[https://medium.com/yourusername](https://medium.com/@arunnaray)" target="_blank"><img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium" /></a>
+  <a href="mailto:mail.arunnaray@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+</p>
+
+---
+
+## 📝 Latest Blog Updates
+
+<!-- BLOG-POST-LIST:START -->
+- [Building AI Agents with LangGraph: A Declarative Take on Agentic AI](https://yourblog.com/post2](https://medium.com/@arunnaray/building-ai-agents-with-langgraph-a-declarative-take-on-agentic-ai-part-2-e803d9f22ccb))
+- [Building AI Agents from Scratch: A Guided Walkthrough](https://medium.com/@arunnaray/building-ai-agents-from-scratch-a-guided-walkthrough-77a2e510bbbb)
+- [From Text to Tokens: The Data Journey in Transformers From BERT to GPTs](https://medium.com/@arunnaray/from-text-to-tokens-the-data-journey-in-transformers-from-bert-to-gpts-5221e6d46bc6)
+<!-- BLOG-POST-LIST:END -->
+
+> 📰 Want more? Visit [Arunnaray Stories](https://yourblog.com](https://medium.com/@arunnaray))
+
+---
+
+
+****************************** ------------------ Final Content --------------------------- ****************************** 
+
+---
+
+## 🛠️ **Technologies & Tools**
+- **Languages:** Python, JavaScript, TypeScript
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Hugging Face, LangChain, OpenAI, BERT, T5
+- **Cloud Platforms:** GCP, AWS, Azure
+- **Databases:** MySQL, MongoDB, FAISS, Elasticsearch
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD pipelines
+- **Other:** FastAPI, Streamlit, LangGraph, Jupyter Notebooks
+
+---
+
+## 🌱 **What I'm Working On**
+I'm currently focused on building **AI-driven platforms** that improve enterprise workflows using **Generative AI**, **Agentic AI**, and **Knowledge Graphs**. Here are some ongoing projects:
+
+- **Agentic AI Mesh Framework:** A novel framework combining AI agents with knowledge graphs to dynamically optimize business processes in real-time.
+- **AI Incident Categorization:** Enhancing IT service management by automating incident triage using advanced machine learning models for better issue resolution.
+- **Knowledge Management Systems (KMS):** Creating AI-powered interfaces for seamless access to cross-platform data and insights, significantly reducing time-to-action for enterprise teams.
+
+---
+
+## 🚀 **Featured Projects**
+### 1. **AI Incident Categorization**
+   - A robust model that categorizes incidents across Windows, Mac, and VDI environments. Uses **BERT** for multi-class classification, providing custom, accurate categories to improve resolution time.
+   - Technologies: **TensorFlow**, **PyTorch**, **BERT**, **Kubernetes**.
+
+### 2. **Generative AI Knowledge Management System**
+   - Integrated Azure OpenAI (GPT-3.5/4.0) with Hybrid **RAG** (Dense & Sparse retrieval) for natural language querying across enterprise data sources like **SharePoint**, **Confluence**, and **GitHub**.
+   - Result: Reduced data lookup time by 40% and increased self-service analytics adoption by 60%.
+
+### 3. **AI-driven Employee Experience Analytics**
+   - Developed an AI pipeline to analyze employee feedback, using sentiment analysis and NLP techniques to improve workplace culture and optimize employee well-being strategies.
+
+---
+
+## 📚 **Blog & Content**
+- **Medium:** [Read my latest AI articles here](https://medium.com/@yourhandle)
+- **GitHub Projects:** This portfolio showcases the open-source projects I'm currently working on, and I regularly update them with new advancements in AI/ML.
+- **Social Media Links:**  
+   - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+   - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+
+---
+
+## 🤝 **Let's Connect**
+Feel free to reach out for collaboration opportunities, discussions on AI/ML, or if you just want to geek out over new technologies. Here's how you can get in touch with me:
+
+- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
+---
+
+## 📝 **Notable Achievements & Patents**
+- **Patents Filed:**
+  - **Reward-Based Mechanisms** to reduce payment failures.
+  - **Synthetic Data Generation** for regulatory reporting & testing.
+  - **Optimized Resource Management** for dynamic queue handling.
+
+---
+
+
+
+<h1 align="center">Hi there 👋, I'm Arun Narayanan </h1>
+
+### 🧠 An Engineer | 🧬 Architect of Intelligence | 🚀 Technocrat in the Making
+
+#### 📖 Storyteller of Algorithms | ✍️ Tech Blogger | Learning and Sharing 
+
+> Building the future with code, curiosity, and cognitive machines.
 
 <p align="center">
   <a href="https://your-website.com">Portfolio</a> •
@@ -7,29 +112,7 @@
   <a href="mailto:youremail@example.com">Email</a>
 </p>
 
----
 
-## 🚀 Short Introduction
-
-I'm [Your Name], a [Your Title, e.g., Software Engineer / AI Specialist / Full Stack Developer] who loves building impactful digital solutions. With a passion for clean code, innovative thinking, and solving real-world problems, I thrive at the intersection of development and creativity.
-
-- 🔭 I’m currently working on: *[Brief current project or goal]*  
-- 🌱 I’m learning: *[New tech or concept]*  
-- 💬 Ask me about: *[e.g., Python, AI/ML, React]*  
-- ⚡ Fun fact: *[Something quirky or interesting about you]*  
-
----
-
-## 📬 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter" /></a>
-  <a href="https://dev.to/yourusername" target="_blank"><img src="https://img.shields.io/badge/Dev.to-Blog-black?logo=dev.to" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
-</p>
-
----
 
 ## 📝 Latest Blog Updates
 
